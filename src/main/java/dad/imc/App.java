@@ -29,13 +29,13 @@ public class App extends Application {
 		pesoLabel1 = new Label("Peso: ");
 		pesoLabel1.setAlignment(Pos.CENTER_LEFT);
 		
-		pesoLabel2 = new Label("kg");
+		pesoLabel2 = new Label(" kg");
 		pesoLabel2.setAlignment(Pos.CENTER_RIGHT);
 		
 		alturaLabel1= new Label("Altura:");
 		alturaLabel1.setAlignment(Pos.CENTER_LEFT);
 		
-		alturaLabel2 = new Label("cm");
+		alturaLabel2 = new Label(" cm");
 		alturaLabel2.setAlignment(Pos.CENTER_RIGHT);
 	
 		imcLabel1 = new Label("IMC: ");
